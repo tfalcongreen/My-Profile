@@ -19,5 +19,11 @@ button.head-bg:hover,
 button.head-bg:focus {
   background-color: darkRed !important;
 }
+.center {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
   
 
