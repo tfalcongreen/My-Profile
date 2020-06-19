@@ -13,7 +13,6 @@ section {
 
 .head-bg {
   background-color: darkRed !important ;
-  display: block;
 }
   
 .head-bg:focus, .head-bg:hover{
