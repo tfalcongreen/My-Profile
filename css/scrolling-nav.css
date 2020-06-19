@@ -20,9 +20,12 @@ button.head-bg:focus {
   background-color: #001400 !important;
 }
 .center {
-  display: inline-block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
-}
   
+}
+.aligncenter {
+    text-align: center;
+}
 
