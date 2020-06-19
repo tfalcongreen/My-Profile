@@ -11,7 +11,7 @@ header {
 section {
   padding: 150px 0;
 }
-bg-primary {
+.bg-primary {
   background-color: #1a4201 !important;
 }
 center {
@@ -20,11 +20,3 @@ center {
   margin-right: auto;
   width: 50%;
 }
-container { 
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-  
-
