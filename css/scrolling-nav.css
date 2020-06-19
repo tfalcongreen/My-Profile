@@ -12,7 +12,7 @@ section {
 }
 
 .bg-primary {
-  background-color: #000000 ;
+  background-color: darkRed !important ;
   display: block;
 }
   
