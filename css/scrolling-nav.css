@@ -12,7 +12,7 @@ section {
   padding: 150px 0;
 }
 bg-primary {
-  background-color: #1a4201;
+  background-color: #1a4201 !important;
 }
 center {
   display: block;
