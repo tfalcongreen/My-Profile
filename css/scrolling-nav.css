@@ -5,15 +5,14 @@
  */
 header {
   padding: 156px 0 100px;
-  background-color: red;
 }
 
 section {
   padding: 150px 0;
 }
 
-.head-bg {
-  background-color: darkRed !important;
+.bg-primary {
+  background-color: #000000 ;
   display: block;
 }
   
