@@ -12,11 +12,11 @@ section {
 }
 
 .head-bg {
-  background-color: darkRed !important ;
+  background-color: darkRed !important;
 }
-  
-.head-bg:focus, .head-bg:hover{
-  color: yellow ;
+  a.head-bg:hover, a.head-bg:focus,
+button.head-bg:hover,
+button.head-bg:focus {
   background-color: darkRed !important;
 }
   
