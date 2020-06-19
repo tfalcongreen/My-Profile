@@ -11,7 +11,7 @@ section {
   padding: 150px 0;
 }
 
-.bg-primary {
+.head-bg {
   background-color: darkRed !important ;
   display: block;
 }
