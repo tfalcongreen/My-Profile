@@ -5,6 +5,7 @@
  */
 header {
   padding: 156px 0 100px;
+  background-color: red;
 }
 
 section {
@@ -13,6 +14,7 @@ section {
 
 .head-bg {
   background-color: darkRed !important;
+  display: block;
 }
   
 .head-bg:focus, .head-bg:hover{
