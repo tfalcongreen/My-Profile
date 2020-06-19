@@ -12,12 +12,12 @@ section {
 }
 
 .bg-primary {
-  background-color: darkRed;
+  background-color: darkRed !important;
 }
   
 .bg-primary:focus, .bg-primary:hover{
   color: yellow ;
-  background-color: darkRed;
+  background-color: darkRed !important;
 }
   
 .center {
