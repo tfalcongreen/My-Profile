@@ -17,7 +17,7 @@ section {
   a.head-bg:hover, a.head-bg:focus,
 button.head-bg:hover,
 button.head-bg:focus {
-  background-color: darkRed !important;
+  background-color: #001400 !important;
 }
 .center {
   display: inline-block;
