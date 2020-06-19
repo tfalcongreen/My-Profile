@@ -23,7 +23,7 @@ button.head-bg:focus {
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
-  width: auto;
+  max-width: 100%;
 }
   
 
