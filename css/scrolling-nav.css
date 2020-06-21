@@ -11,10 +11,6 @@ section {
   padding: 150px 0;
 }
 
-img {
-    width: 100%;
-}
-
 .head-bg {
   background-color: #001400 !important;
 }
@@ -28,19 +24,10 @@ button.head-bg:focus {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  max-width: 50%;
   }
 
 .aligncenter {
     text-align: center;
 }
 
-/* iPHONE 3-4 + RETINA PORTRAIT STYLES */
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (max-device-height: 480px) and (orientation:portrait) {
-    /* Your adjusted CSS goes here */
-}
-
-/* iPHONE 3-4 + RETINA LANDSCAPE STYLES */
-@media only screen and (max-device-width: 480px) and (min-device-width: 320px) and (max-device-height: 480px) and (orientation:landscape) {
-    /* Your adjusted CSS goes here */
-}
