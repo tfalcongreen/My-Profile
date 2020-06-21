@@ -25,9 +25,6 @@ button.head-bg:focus {
   margin-left: auto;
   margin-right: auto;
   max-width: 100%;
+  text-align: center;
   }
-
-.aligncenter {
-    text-align: center;
-}
 
